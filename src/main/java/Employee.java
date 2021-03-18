@@ -66,5 +66,4 @@ public class Employee {
     public void setPosition(String position) {
         this.position = position;
     }
-    //this comment is also here to test git
 }
