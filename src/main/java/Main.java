@@ -17,5 +17,6 @@ public class Main {
         System.out.println("Name: " +employee1.getName() + "; ID num: " + employee1.getIdNumber() + "; Department: " + employee1.getDepartment() + "; Position: " + employee1.getPosition());
         System.out.println("Name: " +employee2.getName() + "; ID num: " + employee2.getIdNumber() + "; Department: " + employee2.getDepartment() + "; Position: " + employee2.getPosition());
         System.out.println("Name: " +employee3.getName() + "; ID num: " + employee3.getIdNumber() + "; Department: " + employee3.getDepartment() + "; Position: " + employee3.getPosition());
+        //this comment is here because im testing git
     }
 }
